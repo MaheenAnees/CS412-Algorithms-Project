@@ -1,8 +1,8 @@
 # CS412-Algorithms-Project
-## Choosen Topic:
+### Project Topic:
 Matrix Multiplication
 
-## Team Members:
+### Team Members:
 - Arhum Ishtiaq
 - Sara Mahmood
 - Maheen Anees
